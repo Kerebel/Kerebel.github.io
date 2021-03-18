@@ -6,7 +6,7 @@ Portfolio de Kerebel Bastien, Etudiant en BTS SIO
 
 #### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 #
-| Netbeans | HTML | CSS | Bootstrap | Git | Github | 
+| ![Netbeans](img/128px_netbeans_logo.png) | ![HTML](img/html_logo.png) | ![CSS](img/css_logo.png) | ![Bootstrap](img/bootstrap_logo.png) | ![Git](img/git_logo.png) | ![Github](img/github_logo.png) | 
 | ------ | ------ | ------ | ------ | ------ | ------ |
 #
 - **Netbeans** : Environnement de développement intégré (IDE) utilisé pour le projet
