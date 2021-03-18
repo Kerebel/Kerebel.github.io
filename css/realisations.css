@@ -3,4 +3,12 @@
 @media (min-width: 768px) {
     .bd-placeholder-img-lg{ font-size: 3.5rem; }
 }
-.jumbotron{ margin-bottom: 0px;}
+.jumbotron{ margin-bottom: 0px; background-color: teal;}
+
+body { padding-top: 50px; background : url("../img/fond_footer.jpg")!important;}
+.cadreCV { padding-bottom: 15px; background: white; }
+.bg-custom 
+{
+    background: linear-gradient(to bottom, teal 10%, darkslategrey, black 80%);
+}
+

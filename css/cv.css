@@ -1,5 +1,12 @@
-body { padding-top: 50px; }
+body { padding-top: 50px; background : url("../img/fond_footer.jpg")!important;}
 .cadreCV { padding-bottom: 15px; background: white; }
+
+.jumbotron{
+    background :  url("../img/fond_index.jpg")
+}
+.bg-custom{
+    background-color: teal;
+}
 
 /**************************
 * En-tête du CV
@@ -18,7 +25,7 @@ body { padding-top: 50px; }
 **************************/
 
 .rubrique { margin-bottom: 15px; }
-.rubrique h2 { color: rgb(226,0,26); }
+.rubrique h2 { color: teal; }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; }
 
@@ -28,7 +35,7 @@ body { padding-top: 50px; }
 
 #parcours { margin-top: 20px; position: relative; padding: 1em 0; list-style: none; }
 #parcours::before { width: 5px; height: 100%; position: absolute; left: 7.8px; top: 0; 
-                    display : block; background: linear-gradient(to bottom, #ffffff 0%, #E2001A 7%, #E2001A, #ffffff 100%); content:""; }
+                    display : block; background: linear-gradient(to bottom, #ffffff 0%, teal 7%, teal, #ffffff 100%); content:""; }
 #parcours li { width: 100%; z-index: 2; position: relative; float: left; }
 #parcours .date .glyphicon-record::before { background: #FFFFFF; color: #555 ; }
 #parcours .date { width: 75px; background-color: rgba(0, 0, 0, 0); font-size: 1.5em;
@@ -81,6 +88,10 @@ body { padding-top: 50px; }
 .meContacter a:hover>img { filter: grayscale(0); -webkit-filter: grayscale(0);
                            -moz-filter: grayscale(0); -ms-filter: grayscale(0);
                            -o-filter: grayscale(0); }
+
+.badge-success{
+    background-color:teal!important;
+}
 
 /**************************
 * Langues
