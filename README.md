@@ -1,5 +1,3 @@
-# Kerebel.github.io
-Portfolio de Kerebel Bastien, Etudiant en BTS SIO
 # Portfolio de Bastien KEREBEL
 ---
 ### Objectifs :
